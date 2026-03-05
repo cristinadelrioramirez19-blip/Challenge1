@@ -37,5 +37,22 @@ Después de analizar los datos y generar diferentes visualizaciones, se encontr�
 - **La Tienda 4 tiene el costo de envío promedio más bajo.**
 
 Tomando en cuenta todos los factores analizados, se recomienda que **el Sr. Juan venda a la Tienda 1**, ya que presenta el mejor desempeño general en términos de ingresos.
+Para ejecutar este proyecto se recomienda usar **Google Colab**.
 
-## Estructura del proyecto
+Pasos:
+
+1. Descargar o clonar este repositorio.
+2. Abrir el archivo `analisis_ventas_tiendas.ipynb`.
+3. Abrirlo en **Google Colab** o en **Jupyter Notebook**.
+4. Ejecutar las celdas en orden para reproducir el análisis y los gráficos.
+
+Las principales bibliotecas utilizadas en el proyecto fueron:
+
+- Pandas
+- Matplotlib
+
+---
+
+## Autor
+
+Cristina Del Río Ramírez
